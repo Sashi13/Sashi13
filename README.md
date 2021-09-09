@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashi13
 - 👀 I’m interested in backend and frontend development
-- 🌱 I’m currently learning Xamrin and ASP.NET MVC
+- 🌱 I’m currently learning Xamarin and ASP.NET MVC
 
 
 <!---
